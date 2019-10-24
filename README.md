@@ -40,7 +40,7 @@
 20. Tsymbal Julia, *"The best recipes"* https://github.com/jultsmbl/course_work
 2. Vdovichenko Dmitro, *"Movies and TV Shows DataBase"* https://github.com/bataisk/db_course_work.git
 3. Haltseva Anastasiia, *"Оnline store of decorative cosmetics"* https://github.com/haltseva/course_work_3.git
-
+8. Lysov Bohdan, *"Audio streaming platform"* https://github.com/BogUkraine/HeadPhones
 5. Zalevskyi Vladyslav, *Research Portfolio* https://github.com/Vivikar/portfolio  
 7. Kyzyurova Evgenia, *Online store of flowers* https://github.com/EvgeniaKyzyurova/course_work    
 12. Orkusha Alina, *Pop culture DataBase* https://github.com/alina0501/data-bases  
